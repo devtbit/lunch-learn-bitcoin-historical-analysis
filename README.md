@@ -26,6 +26,9 @@ jupyter notebook
 ## References:
 
 [1] https://medium.com/coinmonks/python-scripts-for-ccxt-crypto-candlestick-ohlcv-charting-data-83926fa16a13
+
 [2] https://plotly.com/python/candlestick-charts/
+
 [3] https://blog.patricktriest.com/analyzing-cryptocurrencies-python/
+
 [4] https://romanorac.github.io
