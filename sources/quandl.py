@@ -5,7 +5,6 @@ sys.path.insert(1, os.path.join(sys.path[0], '..'))
 from utils import fetch_with_cache
 
 # quandl.ApiConfig.api_key = "XXXXXXXXXXXXXXXXX"
-quandl.ApiConfig.api_key = "PFgrzKFe_dX2aLk9PJuY"
 
 def fetch_data(quandl_id):
     return quandl.get(quandl_id, returns="pandas")
